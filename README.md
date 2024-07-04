@@ -2,6 +2,8 @@
 
 This template provides a minimal setup to get React working in Vit
 
+This Portfolio is a completely responsive built using ReactJS.
+
 ![Screenshot 2024-07-05 020216](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/97813c93-7c23-4e72-ace9-4d1e38c1a82b)
 
 ![Screenshot 2024-07-05 020237](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/38cf4dc9-ba23-4545-9ea0-f546f783868d)
