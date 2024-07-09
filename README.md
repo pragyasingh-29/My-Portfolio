@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This Portfolio is a completely responsive built using ReactJS.
+This Portfolio is a completely responsive for all screen sizes built using ReactJS.
 
 
 ![Screenshot 2024-07-10 041339](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/7e02253f-6514-45e4-8edc-d766110c4f37)
