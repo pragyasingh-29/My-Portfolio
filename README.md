@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite (Completely responsive portfolio)
 
 # visit
 # https://codewithpragyaa.netlify.app/
