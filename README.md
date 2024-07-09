@@ -1,38 +1,25 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vit
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 This Portfolio is a completely responsive built using ReactJS.
 
-![Screenshot 2024-07-05 020216](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/97813c93-7c23-4e72-ace9-4d1e38c1a82b)
 
-![Screenshot 2024-07-05 020237](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/38cf4dc9-ba23-4545-9ea0-f546f783868d)
-
-
-![Screenshot 2024-07-05 020320](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/71c17599-8023-418d-9d81-ba3c849c9996)
+![Screenshot 2024-07-10 041339](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/7e02253f-6514-45e4-8edc-d766110c4f37)
 
 
-![Screenshot 2024-07-05 020354](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/4e99f7d9-e5f4-4aa5-a18b-e66b81d6f89d)
+![Screenshot 2024-07-10 041358](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/2ae0a9a0-5854-447e-a1a5-9cafd4bcca47)
+
+![Screenshot 2024-07-10 041422](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/a24a3b6a-f145-432a-82af-9e84a10e6e40)
 
 
-![Screenshot 2024-07-05 020425](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/7353de0d-aacc-45d9-b5e9-43bc6c610ee5)
+![Screenshot 2024-07-10 041437](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/ffbb64ce-34da-4f6e-8e03-63192ab732f6)
 
 
-![Screenshot 2024-07-05 020443](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/825c8f36-7e65-45db-b87b-6dbba540102e)
+![Screenshot 2024-07-10 041509](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/36e61242-6021-45b2-ad88-96a8f9bfdfd2)
 
 
-![Screenshot 2024-07-05 020503](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/3b7f2687-06a3-494e-9b39-34e122ce46fa)
-
-
-
-![Screenshot 2024-07-05 020552](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/e89f7e38-e5e2-4a5e-824e-e3fefb7fd361)
-
-
-
-![Screenshot 2024-07-05 020621](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/cb95e884-2ec6-4696-87e3-b4a2849f12af)
-
-e with HMR and some ESLint rules.
-
+![Screenshot 2024-07-10 041530](https://github.com/pragyasingh-29/My-Portfolio/assets/129204388/f5207680-4027-4f43-9f08-5cfc702a772d)
 
 
 Currently, two official plugins are available:
